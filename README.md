@@ -1,5 +1,5 @@
 # Omen/CurrencyConverter  
-Converts euro to various the various currencies found at https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
+Converts euro to the various currencies found at https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml
 
 Parsing implemented using https://github.com/dabeaz/ply  
 Web server implemented using Django and django-rest-framework  
